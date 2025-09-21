@@ -13,8 +13,10 @@ Decidi criar uma seção para mostrar minha evolução e as habilidades que esto
 | Habilidade | Descrição | Status |
 | :--- | :--- | :--- |
 | **Python** | Fundamentos da linguagem, bibliotecas para análise de dados e automação. | Em progresso |
+| **SQL** | Gerenciamento e manipulação de dados em bancos de dados relacionais | Em progresso |
 | **Git & GitHub** | Controle de versão, fluxos de trabalho colaborativos, resolução de conflitos e gerenciamento de branches. | Em progresso |
 | **Análise de Dados** | Extração, limpeza e processamento de dados para gerar insights. | Em progresso |
+
 
 ---
 
@@ -33,9 +35,9 @@ Nesta seção, mostro os projetos que desenvolvi, com foco em resolver problemas
 
 Um resumo dos cursos e certificações que completei para aprimorar minhas habilidades.
 
-- Python for Everybody – Coursera  
-- Fundamentos de Data Science – MBA USP/Esalq *(em andamento)*  
-- Introdução ao Git e GitHub – DIO 
+- SQL para análise de dados – Udemy
+- Fundamentos de Linguagem Python para Análise de Dados - Data Science Academy  
+- MBA Data Science & Analytics – MBA USP/Esalq *(em andamento)*   
 
 ---
 

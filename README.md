@@ -45,12 +45,12 @@ Um resumo dos cursos e certificações que completei para aprimorar minhas habil
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:seu-email@example.com">
+<a href="mailto:pedrovcgomes@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 ---
 
 <div align="center">
-  <small><em>Última atualização: [Mês] de [Ano]</em></small>
+  <small><em>Última atualização: [Setembro] de [2025]</em></small>
 </div>

@@ -52,5 +52,5 @@ Um resumo dos cursos e certificações que completei para aprimorar minhas habil
 ---
 
 <div align="center">
-  <small><em>Última atualização: [Setembro] de [2025]</em></small>
+  <small><em>Última atualização: Setembro de 2025</em></small>
 </div>
